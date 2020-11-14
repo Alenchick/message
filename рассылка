@@ -1,0 +1,11 @@
+-
+-
+-
+def send_mail()
+    login=input("введите вашу почту: ")
+    password=input("введите пароль: ")
+    adress=input("кому: ")
+    topic=input("тема: ")
+    message=input("текст: ")
+    
+    msg=#библиотека
